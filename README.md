@@ -1,5 +1,8 @@
-# NativeScript with Angular Blank Template
-App templates help you jump start your native cross-platform apps with built-in UI elements and best practices. Save time writing boilerplate code over and over again when you create new apps.
+# Top Notch Mobile App
+This is the header for the mobile app for top notch using NativeScript.
+
+## How To Run:
+> Insert instructions how to run the app here.
 
 ## Quick Start
 Execute the following command to create an app from this template:
