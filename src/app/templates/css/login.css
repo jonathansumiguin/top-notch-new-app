@@ -1,0 +1,12 @@
+.fill-page {
+    width: 100%;
+    height: 100%;
+}
+
+.login-page {
+    background: linear-gradient(to right, #073562 0%,#06315d 50%, #021828 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.login-page .title {
+    color: goldenrod;
+}
