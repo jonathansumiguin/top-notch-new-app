@@ -10,7 +10,6 @@ import { HomeComponent } from "./home.component";
         HomeRoutingModule
     ],
     declarations: [
-        HomeComponent
     ],
     schemas: [
         NO_ERRORS_SCHEMA

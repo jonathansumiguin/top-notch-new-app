@@ -1,0 +1,7 @@
+<TextField [hint]="textSettings.hint"
+           [secure]="textSettings.secure"
+           [returnKeyType]="textSettings.returnKeyType"
+           (returnPress)="onTextBoxReturn($event)"
+           [autocorrect]="textSettings.autoCorrect"
+           (blur)="onTextboxBlur($event)"
+           class="input input-text-login"></TextField>
