@@ -3,7 +3,7 @@ import { NativeScriptCommonModule } from "nativescript-angular/common";
 
 import { LoginRoutingModule } from "./login-routing.module";
 import { LoginComponent } from "./login.component";
-import { HomeComponent } from "~/app/home/home.component";
+import { TabComponent } from "~/app/components/tab/tab.component";
 
 @NgModule({
         imports: [
@@ -11,7 +11,6 @@ import { HomeComponent } from "~/app/home/home.component";
                 LoginRoutingModule
         ],
         declarations: [
-                LoginComponent
         ],
         schemas: [
                 NO_ERRORS_SCHEMA

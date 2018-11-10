@@ -11,6 +11,8 @@ refer to http://docs.nativescript.org/ui/theme.
 */
 @import '~nativescript-theme-core/css/core.dark.css';
 @import 'app/templates/css/login.css';
+@import 'app/templates/css/components/text-input.css';
+
 /*
 For example, the following CSS rule changes the font size of all UI
 components that have the btn class name.

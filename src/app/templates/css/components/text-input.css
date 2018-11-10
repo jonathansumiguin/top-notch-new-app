@@ -1,0 +1,15 @@
+.input.input-text-login {
+    border-color: #fff;
+    border-radius: 5px;
+    background-color: #fff;
+    color: black;
+    border-radius: 30px;
+    opacity: 0.4;
+    margin-bottom: 16px;
+    padding: 0 32px;
+    font-family: 'Century Gothic';
+    height: 60px;
+    width: 500px;
+    font-size: 10px;
+    line-height: 20px;
+}
