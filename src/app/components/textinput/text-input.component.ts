@@ -1,5 +1,4 @@
 import { Component, OnInit, Input, Output, EventEmitter } from "@angular/core";
-import { TextSettings } from "../../models/universals/text-settings.model";
 import { TextField } from "tns-core-modules/ui/text-field";
 
 
